@@ -1,7 +1,7 @@
 
 ## iWebDjMixer
 
-https://www.mixxx.org/ \n
+https://www.mixxx.org/
 https://you.dj/
 https://iwebdj.com/demo_djmixer.php
 http://partycloud.fm/?force
